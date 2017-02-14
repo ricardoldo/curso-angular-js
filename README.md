@@ -1,3 +1,3 @@
 # curso-angular-js
 
-Sistema usando angular JS
+Sistema usando angular JS para aprendizagem.
