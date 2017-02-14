@@ -1,3 +1,3 @@
 # curso-angular-js
 
-S2
+Projeto utilizando angularJS como aprendizado.
